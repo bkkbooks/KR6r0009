@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6r0009/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 十八部論
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T49/T49n2032.xml
+    old_id: T49n2032
+hash: sha256:496e4bec58d9a97c49e3c30230ff9e8d4f0efa6ac5547c6e63b1dff13a2c8d3b
